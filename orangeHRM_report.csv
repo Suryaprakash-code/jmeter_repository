@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738334944378,1824,dashboardPage,200,OK,Thread Group 1-1,text,false,"The operation lasted too long: It took 1,824 milliseconds, but should not have lasted longer than 900 milliseconds.",6883,369,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1435,0,1072
+1738334944378,1449,dashboardPage-0,302,Found,Thread Group 1-1,text,true,,2049,164,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1435,0,1072
+1738334945830,372,dashboardPage-1,200,OK,Thread Group 1-1,text,true,,4834,205,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,372,0,0
+1738334946207,733,adminPage,200,OK,Thread Group 1-1,text,true,,6787,421,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,359,0,0
+1738334946207,359,adminPage-0,302,Found,Thread Group 1-1,text,true,,1956,216,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers,359,0,0
+1738334946567,373,adminPage-1,200,OK,Thread Group 1-1,text,true,,4831,205,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,373,0,0
+1738334946941,714,myinfoPage,200,OK,Thread Group 1-1,text,true,,6806,435,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,347,0,0
+1738334946941,348,myinfoPage-0,302,Found,Thread Group 1-1,text,true,,1956,230,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,347,0,0
+1738334947289,366,myinfoPage-1,200,OK,Thread Group 1-1,text,true,,4850,205,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,366,0,0
